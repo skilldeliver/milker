@@ -27,13 +27,15 @@ This is required to clone the repository and actually run the app.
 
 6. **Set up Youtube Data API credentials**
 You will need to set up your project at YouTube to get the credentials necessary to make authorized calls.
-`https://developers.google.com/youtube/v3/quickstart/python#step_1_set_up_your_project_and_credentials`
+
+https://developers.google.com/youtube/v3/quickstart/python#step_1_set_up_your_project_and_credentials
 
 Name your `client_secret_CLIENTID.json` -> `client_yt_secret.json` and paste it in the app directory 
 
 7. **Set up Spotify API credentials**
 You will need to register your app at Spotify to get the credentials necessary to make authorized calls (a client id and client secret).
-`https://developer.spotify.com/dashboard/applications`
+
+https://developer.spotify.com/dashboard/applications
 
 ```json
 {
