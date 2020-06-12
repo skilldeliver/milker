@@ -1,0 +1,11 @@
+__pycache__/
+.idea/
+*.aux
+*.log
+*.gz
+*.bbl
+*.blg
+*.xml
+.vscode/
+app/client_sp_secret.json
+app/client_yt_secret.json
