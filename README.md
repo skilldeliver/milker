@@ -47,12 +47,18 @@ https://developer.spotify.com/dashboard/applications
 
 Save this file as `client_sp_secret.json` it in the app directory 
 
-8. **Run the application**
-
-`pipenv run start`
 
 # Usage
-TODO
+There are three options for running the applications.
+
+1. **Running the whole process** `pipenv run start`
+This fetches youtube songs and downloads spotify data
+
+2. **Fetching youtube songs only** `pipenv run start yt`
+This fetches youtube songs (it's mandatory for running the downloading of the spotify data)
+
+3. **Downloading spotify data** `pipenv run start sp`
+This downloads spotify songs data through querieng the youtube fetched songs. 
 
 # Roadmap
 TODO
