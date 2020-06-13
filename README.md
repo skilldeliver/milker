@@ -6,10 +6,6 @@ MIhov's popfoLK ExtractoR
 </h2>
 <h4 align="center">Mihov's analysis of the chalga music genre.</h4>
 
-<p align="center">
-  <img src="https://i.imgur.com/YwtAJTt.png" width="1024">
-</p>
-
 <div align="center">
 	<a>
 	    <img src="https://img.shields.io/github/v/tag/skilldeliver/milker" alt="Version">
@@ -37,6 +33,10 @@ MIhov's popfoLK ExtractoR
   <a href="#contributing">Contributing</a>
   •
   <a href="#authors-and-acknowledgment">Authors</a>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/YwtAJTt.png" width="1024">
 </p>
 
 # Overview
