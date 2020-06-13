@@ -1,10 +1,10 @@
-<h1 align="center">
-MIhov's popfoLK ExtractoR
-</h1>
-
 <p align="center">
   <img src="https://i.imgur.com/YwtAJTt.png" width="1024">
 </p>
+
+<h1 align="center">
+MIhov's popfoLK ExtractoR
+</h1>
 
 <div align="center">
 	<a>
@@ -16,7 +16,7 @@ MIhov's popfoLK ExtractoR
 	<a href="https://github.com/skilldeliver/milker/blob/master/LICENSE">
 	    <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="GitHub license">
 	</a>
-	<a href="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
+	<a>
 	    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="GitHub license">
 	</a>
 </div>
@@ -136,5 +136,3 @@ if we are not fully okay with your work.
 
 # Acknowledgments
 I wish to thank [@nasko7](https://github.com/nasko7) for having introduced me to the collection of Spotify data and for his subsequent conceptual support.
-# License
-TODO	
