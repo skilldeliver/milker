@@ -1,5 +1,5 @@
 <h1 align="center">
-Payner
+<bold>MI</bold>hov's popfo<bold>LK</bold> <bold>E</bold>xtracto<bold>R</bold>
 </h1>
 <h4 align="center">An analysis of the chalga music genre.</h4>
 
@@ -7,12 +7,12 @@ Payner
 
 <div align="center">
 	<a>
-	    <img src="https://img.shields.io/github/v/tag/skilldeliver/payner" alt="Version">
+	    <img src="https://img.shields.io/github/v/tag/skilldeliver/milker" alt="Version">
 	</a>
 	<a href="https://github.com/ambv/black">
 	    <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code Style: Black">
 	</a>
-	<a href="https://github.com/skilldeliver/payner/blob/master/LICENSE">
+	<a href="https://github.com/skilldeliver/milker/blob/master/LICENSE">
 	    <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="GitHub license">
 	</a>
 	<a href="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
@@ -46,11 +46,11 @@ This is required to clone the repository and actually run the app.
 
 2. **Clone the repository**
 
-`git clone https://github.com/skilldeliver/payner.git`
+`git clone https://github.com/skilldeliver/milker.git`
 
 3. **Enter the directory**
 
-`cd payner`
+`cd milker`
 
 4. **Install Pipenv**
 
