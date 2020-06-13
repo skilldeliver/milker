@@ -1,10 +1,10 @@
 <h1 align="center">
-MILKER
-</h1>
-<h2 align="center">
 MIhov's popfoLK ExtractoR
-</h2>
-<h4 align="center">Mihov's analysis of the chalga music genre.</h4>
+</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/YwtAJTt.png" width="1024">
+</p>
 
 <div align="center">
 	<a>
@@ -28,16 +28,13 @@ MIhov's popfoLK ExtractoR
   •
   <a href="#usage">Usage</a>
   •
-  <a href="#roadmapp">Roadmap</a>
+  <a href="#roadmap">Roadmap</a>
   •
   <a href="#contributing">Contributing</a>
   •
-  <a href="#authors-and-acknowledgment">Authors</a>
+  <a href="#acknowledgmenst">Authors</a>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/YwtAJTt.png" width="1024">
-</p>
 
 # Overview
 TODO
