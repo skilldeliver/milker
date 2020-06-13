@@ -1,6 +1,9 @@
 <h1 align="center">
-<bold>MI</bold>hov's popfo<bold>LK</bold> <bold>E</bold>xtracto<bold>R</bold>
+MILKER
 </h1>
+<h2 align="center">
+MIhov's popfoLK ExtractoR
+</h2>
 <h4 align="center">An analysis of the chalga music genre.</h4>
 
 
