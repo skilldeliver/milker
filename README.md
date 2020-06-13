@@ -37,7 +37,9 @@ MIhov's popfoLK ExtractoR
 
 
 # Overview
-TODO
+Milker is a Python application that extracts audio information of songs.
+It does that by collecting names of the songs with [YouTube API](https://developers.google.com/youtube) from given playlists as an input, querying them with the [Spotify API](https://developer.spotify.com) 
+and finally extracting the so-called [audio features](https://developer.spotify.com/discover/#audio-features-analysis) of the song.
 
 # Installation
 The installation steps are as follows:
@@ -136,3 +138,5 @@ if we are not fully okay with your work.
 
 # Acknowledgments
 I wish to thank [@nasko7](https://github.com/nasko7) for having introduced me to the collection of Spotify data and for his subsequent conceptual support.
+Thanks to the development team of [Spotipy](https://github.com/plamere/spotipy) for providing easy to use Spotify API wrapper. 
+Thanks to [Jagoda Kondratiuk](https://unsplash.com/@jagodakondratiuk) for sharing their work on Unsplash.
