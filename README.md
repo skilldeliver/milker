@@ -4,9 +4,11 @@ MILKER
 <h2 align="center">
 MIhov's popfoLK ExtractoR
 </h2>
-<h4 align="center">An analysis of the chalga music genre.</h4>
+<h4 align="center">Mihov's analysis of the chalga music genre.</h4>
 
-
+<p align="center">
+  <img src="https://i.imgur.com/YwtAJTt.png" width="1024">
+</p>
 
 <div align="center">
 	<a>
