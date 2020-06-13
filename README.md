@@ -38,8 +38,10 @@ MIhov's popfoLK ExtractoR
 
 # Overview
 Milker is a Python application that extracts audio information of songs.
-It does that by collecting names of the songs with [YouTube API](https://developers.google.com/youtube) from given playlists as an input, querying them with the [Spotify API](https://developer.spotify.com) 
+It does that by collecting names of the songs with [YouTube API](https://developers.google.com/youtube) from given playlists, querying them with the [Spotify API](https://developer.spotify.com) 
 and finally extracting the so-called [audio features](https://developer.spotify.com/discover/#audio-features-analysis) of the song.
+<br>
+In the scope of the [Bulgarian popfolk songs, 2014-2019](https://www.kaggle.com/astronasko/payner) project, **Milker** was used for extracting the audio features of chalga songs from YouTube playlsts. 
 
 # Installation
 The installation steps are as follows:
