@@ -1,9 +1,44 @@
+<h1 align="center">
+Payner
+</h1>
+<h4 align="center">An analysis of the chalga music genre.</h4>
+
+
+
+<div align="center">
+	<a>
+	    <img src="https://img.shields.io/github/v/tag/skilldeliver/payner" alt="Version">
+	</a>
+	<a href="https://github.com/ambv/black">
+	    <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code Style: Black">
+	</a>
+	<a href="https://github.com/skilldeliver/payner/blob/master/LICENSE">
+	    <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="GitHub license">
+	</a>
+	<a href="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
+	    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="GitHub license">
+	</a>
+</div>
+
+<p align="center">
+  <a href="#overview">Overview</a>
+  •
+  <a href="#installation">Installation</a>
+  •
+  <a href="#usage">Usage</a>
+  •
+  <a href="#roadmapp">Roadmap</a>
+  •
+  <a href="#contributing">Contributing</a>
+  •
+  <a href="#authors-and-acknowledgment">Authors</a>
+</p>
 
 # Overview
 TODO
 
 # Installation
-The installation and running steps are as follows:
+The installation steps are as follows:
 
 1. **Make sure to get git and Python**
 
@@ -11,15 +46,15 @@ This is required to clone the repository and actually run the app.
 
 2. **Clone the repository**
 
-`https://github.com/skilldeliver/payner.git`
+`git clone https://github.com/skilldeliver/payner.git`
 
 3. **Enter the directory**
 
-`cd discord-bot`
+`cd payner`
 
 4. **Install Pipenv**
 
-`python -m pip install pipenv`
+`python -m pip install pipenv` (if you don't have it installed)
 
 5. **Install dependencies**
 
@@ -51,23 +86,54 @@ Save this file as `client_sp_secret.json` it in the app directory
 # Usage
 There are three options for running the applications.
 
-1. **Running the whole process** `pipenv run start`
+1. **Running the whole process**
+
+ `pipenv run start`
+
 This fetches youtube songs and downloads spotify data
 
-2. **Fetching youtube songs only** `pipenv run start yt`
-This fetches youtube songs (it's mandatory for running the downloading of the spotify data)
+2. **Fetching youtube songs only**
 
-3. **Downloading spotify data** `pipenv run start sp`
+ `pipenv run start yt`
+
+This fetches youtube songs (it's mandatory for running the download of the spotify data)
+
+3. **Downloading spotify data**
+
+ `pipenv run start sp`
+
 This downloads spotify songs data through querieng the youtube fetched songs. 
 
 # Roadmap
 TODO
 
 # Contributing
-TODO
+We are open to contributors. To contribute follow these steps.
+
+1. **Fork and clone the repistory**
+
+This is required to do your own development and then finalize with pull request to us.
+
+2. **Installation**
+
+`pipenv install --dev` 
+
+The installation step is a little bit different because we require linting your code 
+and formating it with black. Pipenv this way will install the required development packages.
+
+3. **Development work**
+
+Please write clean and well documented code. Set up the linting with flake8 in your
+development enviorement and run black after you are done. 
+And write good commit messages! 
+
+4. **Create Pull request**
+
+And wait... :) We will check every pull request and make sure to give detailed remarks
+if we are not fully okay with your work.
 
 # Authors and acknowledgment
 TODO
 
 # License
-TODO
+TODO	

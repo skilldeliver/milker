@@ -4,6 +4,8 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+flake8 = "==3.7.9"
+black = "==19.10b0"
 
 [packages]
 google-api-python-client = "==1.7.11"
@@ -11,7 +13,8 @@ google-auth = "==1.11.2"
 google-auth-httplib2 = "==0.0.3"
 google-auth-oauthlib = "==0.4.1"
 spotipy = "==2.9.0"
-transliterate = "==1.10.2" 
+transliterate = "==1.10.2"
+
 
 [requires]	
 python_version = "3.8"
