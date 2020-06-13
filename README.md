@@ -132,8 +132,7 @@ And write good commit messages!
 And wait... :) We will check every pull request and make sure to give detailed remarks
 if we are not fully okay with your work.
 
-# Authors and acknowledgment
-TODO
-
+# Acknowledgments
+I wish to thank [@nasko7](https://github.com/nasko7) for having introduced me to the collection of Spotify data and for his subsequent conceptual support.
 # License
 TODO	
