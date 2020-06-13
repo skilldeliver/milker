@@ -26,7 +26,7 @@ MIhov's popfoLK ExtractoR
   •
   <a href="#installation">Installation</a>
   •
-  <a href="#roadmap">Roadmap</a>
+  <a href="#usage">Usage</a>
   •
   <a href="#contributing">Contributing</a>
   •

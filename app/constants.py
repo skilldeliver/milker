@@ -17,7 +17,7 @@ PATH_YT_PAYNER_TRACKS = PurePath(PATH_DATA).joinpath("youtube_payner_tracks.json
 PATH_SP_PAYNER_TRACKS = PurePath(PATH_DATA).joinpath("tracks_payner.json")
 
 
-PAYNER_REGEX = r"^(?P<artist>.*?)\s(.*?)-(?P<song>.*)/\s(?P<bgartist>.*?)\s(.*?)-(?P<bgsong>.*),(.*)$"  # r'^(?P<artist>.*?)\s(.*?)-(?P<song>.*)/(.*)$' # r"^.*/.*?-(.*?),.*(\d{4}).*$" # r'^.*?-(?P<query>.*)(/.*-(.*)?)(,.*(\d{4}).*)?$'
+PAYNER_REGEX = r"^(?P<artist>.*?)\s(.*?)-(?P<song>.*)/\s(?P<bgartist>.*?)\s(.*?)-(?P<bgsong>.*),(.*)$"
 QUERIES = "artist", "song"
 BG_QUERIES = "bgartist", "bgsong"
 
