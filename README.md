@@ -130,6 +130,6 @@ And wait... :) We will check every pull request and make sure to give detailed r
 if we are not fully okay with your work.
 
 # Acknowledgments
-I wish to thank [@nasko7](https://github.com/nasko7) for having introduced me to the collection of Spotify data and for his subsequent conceptual support.
+I wish to thank [@atronasko](https://github.com/astronasko) for having introduced me to the collection of Spotify data and for his subsequent conceptual support.
 Thanks to the development team of [Spotipy](https://github.com/plamere/spotipy) for providing easy to use Spotify API wrapper. 
 Thanks to [Jagoda Kondratiuk](https://unsplash.com/@jagodakondratiuk) for sharing their work on Unsplash.
