@@ -28,4 +28,5 @@ YOUTUBE_PAYNER_PLAYLISTS = [
     "PLWhONodvbQnfLXFqUnUjGNOGZxUVpPMZz",  # 2017
     "PLWhONodvbQnc743n4eZjT-q-Ws254zFqQ",  # 2018
     "PLWhONodvbQnegRSv-BDWuLaL5zgsH5jyu",  # 2019
+    "PLWhONodvbQncO-swvOqapo2vXF7xIDiG-"   # 2020
 ]
