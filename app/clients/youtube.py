@@ -27,8 +27,6 @@ class YouTube:
     scopes: list = ["https://www.googleapis.com/auth/youtube.readonly"]
 
     def __init__(self, path_credentials: str):
-        print('CREDENTIALS: ', path_credentials)
-        os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
         flow = InstalledAppFlow.from_client_secrets_file(
                                          path_credentials,
                                          self.scopes
