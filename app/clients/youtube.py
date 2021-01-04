@@ -1,4 +1,5 @@
 import re
+import os
 import logging
 
 from google_auth_oauthlib.flow import InstalledAppFlow
@@ -26,6 +27,8 @@ class YouTube:
     scopes: list = ["https://www.googleapis.com/auth/youtube.readonly"]
 
     def __init__(self, path_credentials: str):
+        print('CREDENTIALS: ', path_credentials)
+        os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
         flow = InstalledAppFlow.from_client_secrets_file(
                                          path_credentials,
                                          self.scopes
@@ -34,7 +37,7 @@ class YouTube:
         self.search = build(
             self.api_service,
             self.api_version,
-            credentials=flow.run_local_server()
+            credentials=flow.run_console()
         )
 
         self.next_page: str = "nextPageToken"
