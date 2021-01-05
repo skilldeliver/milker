@@ -64,14 +64,9 @@ data = data.replace({
     'Tedi Aleksanrova':'Tedi Aleksandrova',
     'Tedi Aleksadrova':'Tedi Aleksandrova',
     'Alisiya':'Alisia',
-    'Julia': 'Dzhulia',
-    
-    
+    'Julia': 'Dzhulia',  
+    'Krisiya D': 'Krisia D',
 })
-
-# Fix one song (thanks, nasko)
-data.loc[493,'artist_1'] = 'Maria & Magdalena'
-data.loc[493,'artist_2'] = 'None'
 
 
 data = data.drop(columns=['artists'])
